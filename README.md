@@ -6,3 +6,5 @@ This repository contains of two projects.
    
 2. Trace Modeling of a basic 4-stage pipeline
    A program to decode hexadecimal instructions, get statistical data on dependencies, stalls and their impact on pipeline performance. 
+
+'testing for changes'
